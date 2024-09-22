@@ -9,6 +9,16 @@ Implemented a machine learning classification model to identify Iris flower spec
 
 - This repository represents,**"Classification of iris flower based on its features."**
 
+> [!IMPORTANT]
+> _**Key Technologies:**_
+>
+> _**Programming Languages:** Python_
+> 
+> _**Libraries/Frameworks:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn_
+> 
+> _**Algorithms:** K-Nearest Neighbors (KNN)_
+> 
+> _**Tools:** Jupyter Notebook_
 
 
 
